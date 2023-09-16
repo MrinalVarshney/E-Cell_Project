@@ -154,3 +154,34 @@ hr {
     display: block;
   }
 }
+
+/* MOBILE SCREEN RESPONSIVENESS */
+
+@media screen and (max-width: 393px){
+  .logo, .boxContainer, .gradientBox{
+    min-width:250px;
+    height:250px;
+    transform: scaleX(-1);
+    filter: FlipH;
+    transform: scaleY(-1);
+    filter: FlipV;
+    margin-bottom: 10px;
+  } 
+
+  .logo{
+    display: block;
+  }
+  .boxRow {
+    max-width:250px;
+    transform: scaleX(-1);
+    filter: FlipH;
+    transform: scaleY(-1);
+    filter: FlipV;
+    margin-top: 5px;
+  }
+  .navBar{
+    min-height: 55px;
+    height:auto;
+  }
+
+}
