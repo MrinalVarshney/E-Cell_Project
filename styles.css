@@ -34,7 +34,9 @@ a {
   justify-content: center;
 }
 
-.bar1,.bar2, .bar3 {
+.bar1,
+.bar2,
+.bar3 {
   width: 50px;
   height: 3px;
   background-color: rgba(217, 217, 217, 1);
@@ -44,9 +46,9 @@ a {
 }
 
 .change .bar1 {
-    background-color: black; /* Change the color as desired */
-    transform: rotate(45deg);
-    transform-origin: center center;
+  background-color: black; /* Change the color as desired */
+  transform: rotate(45deg);
+  align-self: center;
 }
 
 .change .bar2 {
@@ -54,9 +56,8 @@ a {
 }
 
 .change .bar3 {
-    background-color: black; /* Change the color as desired */
-    transform: rotate(-45deg);
-    transform-origin: center center;
+  background-color: black; /* Change the color as desired */
+  transform: rotate(-45deg);
 }
 
 @media screen and (max-width: 400px) {
@@ -68,6 +69,33 @@ a {
   }
 }
 
+/* Box rows */
+.boxRow {
+  width: 1203px;
+  height: 385px;
+  position: relative;
+  top: 104px;
+  left: 119px;
+  border-radius: 15px;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+}
 
+.boxes {
+  width: 32%;
+  border-radius: 15px;
+}
 
+.gradientBox {
+    background: linear-gradient(135.38deg, #3300FF 0%, #FA00FF 98.32%);
+    box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 
+.imageBox {
+    border: 1px solid rgba(0, 0, 0, 1)
+}
+
+.gridBox {
+  background-color: black;
+}
