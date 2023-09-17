@@ -22,7 +22,8 @@ Advanced-Task --->
   Mobile Version
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/275beb45-1902-4ba9-9c83-3b9845b15882)
   Profile Page
-    ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/3b93c296-44fc-4a6e-9407-f9b0c9fd6eb4)
+    ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/6601441f-a610-4ed9-b0e0-584adbe6e5a2)
+
 
 
 
