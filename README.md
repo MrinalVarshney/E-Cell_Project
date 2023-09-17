@@ -15,9 +15,13 @@ Advanced-Task --->
     2. Github Profile
 
 *Deployed via Netlify 
+  Desktop Version
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/af367456-b43f-42fa-bb4b-4e708f8966d1)
+  Tablet Version
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/fc1cc2f0-1da4-4e66-9600-3d490e1d9fe3)
+  Mobile Version
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/275beb45-1902-4ba9-9c83-3b9845b15882)
+  Profile Page
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/3b93c296-44fc-4a6e-9407-f9b0c9fd6eb4)
 
 
