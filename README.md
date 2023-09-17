@@ -15,6 +15,7 @@ Advanced-Task --->
     2. Github Profile
     
     
-    ![Uploading Screenshot (14).png…]()
+    ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/af367456-b43f-42fa-bb4b-4e708f8966d1)
+
 
 
