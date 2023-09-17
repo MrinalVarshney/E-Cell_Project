@@ -18,7 +18,8 @@ Advanced-Task --->
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/af367456-b43f-42fa-bb4b-4e708f8966d1)
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/fc1cc2f0-1da4-4e66-9600-3d490e1d9fe3)
     ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/275beb45-1902-4ba9-9c83-3b9845b15882)
-    ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/edaabe91-cc3c-4423-b400-9f1160a46574)
+    ![image](https://github.com/MrinalVarshney/E-Cell_Project/assets/66404121/3b93c296-44fc-4a6e-9407-f9b0c9fd6eb4)
+
 
 
 
